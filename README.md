@@ -54,7 +54,12 @@ Ce projet Java a été conçu pour gérer des salles et des machines à l'aide d
 + Hibernate 
 + RMI : utilsée pour la commmunucation entre le serveur et le client
 
+## <u>**les fonctionnalités implémentées**</u>
+1. les operations CRUD pour les machines
+2. les operation CRUD pour les salles
+3. trouver les machines existants dans chaque salle
 
+   
 Ce projet Java combine la puissance de Hibernate pour la gestion de données et RMI pour la communication client-serveur, offrant ainsi une solution complète de gestion de salles et de machines avec une interface utilisateur conviviale. La division du projet en composantes serveur et client permet une séparation claire des responsabilités et facilite la maintenance et le déploiement.
 
 **By Ayoub OIFIK**
