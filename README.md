@@ -3,6 +3,8 @@
 Ce projet Java a été conçu pour gérer des salles et des machines à l'aide d'une interface graphique Swing. Il utilise Hibernate comme couche de persistance pour stocker les données de manière efficace et RMI (Remote Method Invocation) pour permettre la communication entre le client et le serveur. Le projet est divisé en deux parties distinctes : le serveur RMI et le client RMI. Chacune de ces parties joue un rôle spécifique dans le fonctionnement de l'application.
 
 ### Organisation du Projet
+### schema de la base de donée
+![shema de base de donee](https://github.com/ayouboifikEnsaj/Tp_RMI/assets/107751911/e71a9144-d9f0-463a-aa9c-1f6e95942c57)
 
 #### Serveur RMI
 - Le serveur RMI est responsable de la logique métier et de la persistance des données.
