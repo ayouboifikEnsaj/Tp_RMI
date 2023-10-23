@@ -51,6 +51,12 @@ Ce projet Java a été conçu pour gérer des salles et des machines à l'aide d
 ### trouver des machines par des salles.
 ![recherche by salle](https://github.com/ayouboifikEnsaj/Tp_RMI/assets/107751911/f74576e0-ee53-4f43-800f-6c2f16871f83)
 
+### les techonologies utilisées
++ java
++ MySQL
++ Hibernate
++ RMI : utilsée pour la connexion entre le serveur et le client
+
 
 Ce projet Java combine la puissance de Hibernate pour la gestion de données et RMI pour la communication client-serveur, offrant ainsi une solution complète de gestion de salles et de machines avec une interface utilisateur conviviale. La division du projet en composantes serveur et client permet une séparation claire des responsabilités et facilite la maintenance et le déploiement.
 
